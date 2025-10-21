@@ -60,13 +60,6 @@ graph TD;
 
 ---
 
-## 📈 GitHub Stats
-
-![Tehseen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tehseennayeemkhan&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tehseennayeemkhan&layout=compact&theme=radical)
-
----
-
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/tehseen-nayeem-khan-4b586b217)
