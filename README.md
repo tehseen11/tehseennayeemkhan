@@ -1,9 +1,23 @@
 
-# 👋 Hi there, I'm Tehseen Nayeem Khan
 
-🌩️ **Cloud Enthusiast** | ⚙️ **DevOps Learner** | 🧩 **Automation Explorer**
+<h3 align="center">👋 Hi, I'm Tehseen Nayeem Khan</h3>
+<p align="center">
+  <b>☁️ Cloud Enthusiast | ⚙️ DevOps Learner | Automating Infrastructure</b><br><br>
+  <a href="https://linkedin.com/in/tehseen-nayeem-khan-4b586b217">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+  </a>
+  <a href="https://github.com/tehseen11">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" />
+  </a>
+</p>
 
 ---
+
+### 👨‍💻 About Me
+- 🚀 Currently learning **Kubernetes, Terraform, and AWS**
+- 🧠 Building automation projects with **Docker, Jenkins, and n8n**
+- 🎯 Goal: Become a skilled **DevOps Engineer**
+
 
 ## 📖 About Me
 
